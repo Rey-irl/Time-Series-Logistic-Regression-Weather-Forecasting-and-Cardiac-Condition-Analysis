@@ -23,8 +23,6 @@ library("imputeTS")
 #---------------------------------
 # LOADING DATA
 #---------------------------------
-# Switch your working directory to where ever you have downloaded the file.
-setwd('C:/Users/reyna/Documents/MSc in Data Analytics/Statistics for data analytics/0.1 Final Project')
 
 # Read in our csv and put it in a data.frame.
 weather <- read.csv('weather_revised.csv',  header=T, na.strings=c(""), stringsAsFactors = T)
