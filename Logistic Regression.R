@@ -30,9 +30,6 @@ library(plotly)
 library(ROCR)
 theme_set(theme_bw())
 
-# Switch your working directory to where ever you have downloaded the file.
-setwd('C:/Users/reyna/Documents/MSc in Data Analytics/Statistics for data analytics/0.1 Final Project')
-
 # Read in our csv and put it in a data.frame.
 cardiac_df <- read.csv('cardiac.csv',  header=T, na.strings=c(""), stringsAsFactors = T)
 
