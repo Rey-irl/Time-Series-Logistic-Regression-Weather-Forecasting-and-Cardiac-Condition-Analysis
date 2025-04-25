@@ -86,6 +86,7 @@ This project follows the **Knowledge Discovery in Databases (KDD)** process:
 
 ## 🧠 Author
 **Reyna Vargas Antonio**  
-National College of Ireland  
+**National College of Ireland**  
+
 ---
 
