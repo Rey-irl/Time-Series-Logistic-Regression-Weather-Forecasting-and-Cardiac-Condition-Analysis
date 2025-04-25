@@ -87,7 +87,5 @@ This project follows the **Knowledge Discovery in Databases (KDD)** process:
 ## 🧠 Author
 **Reyna Vargas Antonio**  
 National College of Ireland  
-Email: x23127635@student.ncirl.ie
-
 ---
 
